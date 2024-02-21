@@ -1,0 +1,9 @@
+---
+manufacturer: Cisco
+model: NCS-1100W-ACFW
+part_number: NCS-1100W-ACFW
+comments: NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-Back
+power-ports:
+  - name: PSU{module}
+    type: iec-60320-c14
+    maximum_draw: 1100

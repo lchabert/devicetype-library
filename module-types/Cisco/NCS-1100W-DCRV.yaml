@@ -1,0 +1,9 @@
+---
+manufacturer: Cisco
+model: NCS-1100W-DCRV
+part_number: NCS-1100W-DCRV
+comments: NCS 5500 DC 1100W Power Supply Port-S Exhaust/Back-to-Front
+power-ports:
+  - name: PSU{module}
+    type: dc-terminal
+    maximum_draw: 1100

@@ -1,0 +1,9 @@
+---
+manufacturer: Cisco
+model: NCS-950W-DCFW
+part_number: NCS-950W-DCFW
+comments: NCS 5500 DC 950W Power Supply Port-S Intake/Front-to-Back
+power-ports:
+  - name: PSU{module}
+    type: dc-terminal
+    maximum_draw: 950
